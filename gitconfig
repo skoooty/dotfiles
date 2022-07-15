@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = martin.skalicky@theifactory.com
+	name = Martin Skalicky
